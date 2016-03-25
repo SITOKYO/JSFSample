@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="WebApplicationTest01" default="default" basedir=".">
-    <description>Builds, tests, and runs the project WebApplicationTest01.</description>
+<project name="JSFSample" default="default" basedir=".">
+    <description>Builds, tests, and runs the project JSFSample.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 

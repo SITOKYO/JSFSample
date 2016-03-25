@@ -12,7 +12,7 @@ public class MeiboBean {
 
     public String next() {
         System.out.println("★number=" + this.number + "/ name=" + this.name);
-        return "output.xhtml"; // 次に表示するウェブページ
+        return "outputTextSample.xhtml"; // 次に表示するウェブページ
     }
 
     public String getName() {
